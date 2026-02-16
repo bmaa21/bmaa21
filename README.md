@@ -11,8 +11,7 @@ Projects in analytics, automation, and machine learning.
 Python, SQL, predictive modeling, and machine learning.
 
 ## 🛠️ Tools & Technologies
-Strong background in SAP (ECC & S/4HANA), Advanced Excel,  
-Power Platform (Power Apps, Power BI, Power Automate), and KNIME.
+Strong background in SAP (ECC & S/4HANA), Advanced Excel, Power Platform (Power Apps, Power BI, Power Automate), and KNIME.
 
 ## 📫 Connect with me
 

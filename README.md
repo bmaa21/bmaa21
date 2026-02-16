@@ -14,7 +14,7 @@ Python, SQL, predictive modeling, and machine learning.
 Strong background in SAP (ECC & S/4HANA), Advanced Excel,  
 Power Platform (Power Apps, Power BI, Power Automate), and KNIME.
 
-## 📫 Contact
+## 📫 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/brendandrade">
